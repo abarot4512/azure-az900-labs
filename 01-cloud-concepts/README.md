@@ -1,15 +1,18 @@
-# Cloud Concepts Lab
+Cloud Concepts Lab
+Objective
 
-## Objective
+Understand the difference between Infrastructure as a Service (IaaS) and Platform as a Service (PaaS).
 
-Learn the difference between IaaS and PaaS.
+Planned Tasks
+Create an Azure Virtual Machine (IaaS)
+Create an Azure Web App (PaaS)
+Azure Services
+Azure Virtual Machines
+Azure App Service
+Learning Goals
+Understand cloud service models
+Identify IaaS and PaaS examples
+Compare management responsibilities between Azure and the customer
+Status
 
-## Tasks Completed
-
-- Created Virtual Machine
-- Created Web App
-
-## What I Learned
-
-- Virtual Machines are IaaS
-- Web Apps are PaaS
+⬜ Not Started
