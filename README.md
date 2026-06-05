@@ -8,13 +8,13 @@ This repository contains hands-on Azure labs completed while preparing for the A
 
 | Lab | Topic | Status |
 |------|--------|---------|
-| 1 | Cloud Concepts | ✅ |
-| 2 | Virtual Machines | ✅ |
-| 3 | Storage | ✅ |
-| 4 | App Service | ✅ |
-| 5 | Azure Functions | ✅ |
-| 6 | Networking | ✅ |
-| 7 | Identity | ✅ |
+| 1 | Cloud Concepts | |
+| 2 | Virtual Machines |  |
+| 3 | Storage |  |
+| 4 | App Service | |
+| 5 | Azure Functions |  |
+| 6 | Networking | |
+| 7 | Identity |  |
 
 
 ## Skills Demonstrated
